@@ -34,8 +34,8 @@ body {
 
 .rsvp iframe {
   width: 100%;
-  max-width: 800px;
-  height: 600px; /* adjust depending on form length */
+  max-width: 1000px;
+  height: 1000px; /* adjust depending on form length */
   border: none;
 }
 
